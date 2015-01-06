@@ -1,0 +1,20 @@
+<?php
+// =====================================================================
+// PLUGIN INFO FOR DISPLAY TIME & DATE
+// =====================================================================
+$_PLUGIN_CONFIG['DATA'] = array(
+	'author'=>'Pooya Parsa Dadashi',
+    'email'=>'Pooya_parsa_dadashi@yahoo.com',
+	'version'=>'0.1',
+	'url'=>'http://www.DatamWeb.ir'
+);
+
+// =====================================================================
+// PLUGIN CLASS FOR DISPLAY TIME & DATE
+// =====================================================================
+class PLUGIN_DisplayTime_Date extends Plugin
+{
+	
+}
+
+?>
