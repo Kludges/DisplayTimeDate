@@ -1,0 +1,8 @@
+<?php
+
+$_PLUGIN_CONFIG['LANG'] = array(
+	'NAME'=>'نمایش ساعت وتاریخ',
+	'DESCRIPTION'=>'سلام،این پلاگین به شما اجازه نمایش تاریخ و ساعت را در وبلاگتان میدهد.<br>توسعه داده ده توسط پویا پارسا داداشی  <p>آدرس سایت : <a href="http://www.datamweb.ir">داتام وب</a></p><p>رایانامه : <a>Pooya_parsa_dadashi@yahoo.com</a></p>',
+);
+
+?>

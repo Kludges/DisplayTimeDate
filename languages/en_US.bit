@@ -1,0 +1,8 @@
+<?php
+
+$_PLUGIN_CONFIG['LANG'] = array(
+	'NAME'=>'Display Time&Date',
+	'DESCRIPTION'=>'Hi,This plugin allows you to Display time and date in your blog.<br>Developed by  Pooya Parsa Dadashi<p>Url : <a href="http://www.datamweb.ir">DatamWeb</a></p><p>Email : <a>Pooya_parsa_dadashi@yahoo.com</a></p>',
+);
+
+?>
