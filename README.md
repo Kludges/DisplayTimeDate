@@ -6,6 +6,10 @@ How to install and run nibbleblog
 =================================
 null
 
+is not Active
+=============
+this plugin is not now active.
+
 Contact info
 ============
 Email:Pooya_parsa_dadashi{in}yahoo.com
