@@ -4,8 +4,9 @@
 // =====================================================================
 $_PLUGIN_CONFIG['DATA'] = array(
 	'author'=>'Pooya Parsa Dadashi',
-    'email'=>'Pooya_parsa_dadashi@yahoo.com',
+    	'email'=>'Pooya_parsa_dadashi@yahoo.com',
 	'version'=>'0.1',
+	'github'=>'http://www.github.com/datamweb',
 	'url'=>'http://www.DatamWeb.ir'
 );
 
@@ -14,7 +15,23 @@ $_PLUGIN_CONFIG['DATA'] = array(
 // =====================================================================
 class PLUGIN_DisplayTime_Date extends Plugin
 {
+
+	public function dashboard_config()
+	{
+		global $Language;
+		//now null the Plugin Display time & date v0.1
+
+	}
 	
+	public function blog_body()
+	{
+		$html  = '<div>';
+		$html .= '<b>Today:</b>';
+		$html .= require('plugins/DisplayTime_Date/js/sii.js');
+		$html .= '<span id="servertime"></span>';
+		$html .= '</div>';
+		return $html;
+	}	
 }
 
 ?>
