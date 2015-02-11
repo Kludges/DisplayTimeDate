@@ -4,7 +4,7 @@ This plugin allows you to Display time and date in your blog. Developed for Nibb
 
 How to install and run nibbleblog
 =================================
-Download the plugin from the link below:[Download!](www.datamweb.ir/nibbleblog_EX/DisplayTimeDate.zip)
+Download the plugin from the link below:[Download!](http://datamweb.ir/nibbleblog_EX/DisplayTimeDate.zip)
 >**Note: It is very important if you have downloaded from Github. After extracting the zip file. You must rename the folder(DisplayTimeDate-master) to "DisplayTimeDate".**
 
 Extract the directory:
